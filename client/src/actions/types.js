@@ -1,0 +1,9 @@
+export const SET_LOADING = 'SET_LOADING';
+export const ERROR = 'ERROR';
+export const CLEAR_ERRORS ='CLEAR_ERRORS';
+
+export const GET_PROJECTS = 'GET_PROJECTS';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const UPDATE_PROJECT = 'UPDATE_PROJECT';
+export const CHANGE_ORDER_INPHASE = 'CHANGE_ORDER_INPHASE';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
